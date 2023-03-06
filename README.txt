@@ -1,6 +1,10 @@
 This is a general purpose prank application to repeatedly prompt a user with an
 unavoidable math prompt, which they will have to solve correctly to keep using
-the computer.  This is the general flow of how the program operates.
+the computer. I wrote this during my downtime at the shared front desk computer
+while working in the college IT department.
+
+
+This is the general flow of how the program operates.
 
 
 1)  Upon login, a flag file will be placed in this directory indicating that
